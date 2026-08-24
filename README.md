@@ -64,7 +64,7 @@ RazoR includes a large collection of Discord features, including:
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 Before running RazoR, make sure you have:
 
@@ -79,12 +79,12 @@ The Python dependencies are already listed in `requirements.txt`.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/r3novadcl/RazoR-AiO.git
 cd RazoR-AIO
 ```
 
@@ -118,7 +118,7 @@ pip3 install -r requirements.txt
 
 ---
 
-## 🔐 Configure `.env`
+##  Configure `.env`
 
 The project includes a `.env.example` file.
 
@@ -385,7 +385,7 @@ RazoR-AIO/
 
 ---
 
-## 🧪 Troubleshooting
+##  Troubleshooting
 
 ### `TOKEN is missing`
 
@@ -469,14 +469,14 @@ Third-party libraries and services used by RazoR remain subject to their own lic
 
 ---
 
-## ⭐ Support the Project
+##  Support the Project
 
 If you find RazoR useful:
 
 - ⭐ Star the repository
-- 🐛 Report bugs with useful logs and reproduction steps
-- 💡 Suggest improvements
-- 🤝 Join **FX DEVELOPMENT** for updates and support
+- Report bugs with useful logs and reproduction steps
+- Suggest improvements
+- Join **FX DEVELOPMENT** for updates and support
 
 **FX DEVELOPMENT TEAM**  
 **Developer — r3novadcl**
